@@ -36,6 +36,25 @@ class HelloWorld {
         
         // System.out.println("sagnik".startsWith("sag")); //Prefix
         // System.out.println("sagnik".endsWith("ik")); //Prefix
+
+        // System.out.println("sagnik".substring(1,2));
+        // System.out.println("sagnik".substring(3,3));
+        
+        // String myLocations = "hyderabad, chennai, bengalore, noida, pune";
+        // String myLocationList[] = myLocations.split(",");
+        
+        // for(int i=0; i<myLocationList.length; i++){
+        //     System.out.print(myLocationList[i] + " ");
+        // }
+        
+        // //split()
+        // String email1 = "abc@gmail.com";
+        // String email2 = "def@hotmail.com";
+        
+        // String emailArr[] = email1.split("@");
+        // String lastPart = emailArr[emailArr.length-1];
+        // int dotIndex = lastPart.lastIndexOf('.');
+        // System.out.println(lastPart.substring(0,dotIndex));
         
         
     }

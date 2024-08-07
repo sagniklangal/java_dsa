@@ -55,7 +55,42 @@ class HelloWorld {
         // String lastPart = emailArr[emailArr.length-1];
         // int dotIndex = lastPart.lastIndexOf('.');
         // System.out.println(lastPart.substring(0,dotIndex));
+
+        // //StringBuilder
+        // StringBuilder name1 = new StringBuilder("sagnik");
+        // StringBuilder name2 = new StringBuilder("sagnik");
+        // StringBuilder name3 = new StringBuilder("sagnik");
+        // StringBuilder name4 = name1;
         
+        // //Same value or not
+        // System.out.println(name1.equals(name2));
+        // System.out.println(name2.equals(name3));
+        // System.out.println(name3.equals(name4));
+        // System.out.println(name4.equals(name2));
+        // System.out.println(name1.equals(name4));
+        
+        // name4.append("langal");
+        
+        // System.out.println(name1.equals(name2));
+        // System.out.println(name2.equals(name3));
+        // System.out.println(name3.equals(name4));
+        // System.out.println(name4.equals(name2));
+        // System.out.println(name1.equals(name4));
+        
+        // //Same place or not
+        // System.out.println(name1==name2);
+        // System.out.println(name2==name3);
+        // System.out.println(name3==name4);
+        // System.out.println(name4==name2);
+        // System.out.println(name1==name4);
+        
+        // name4.append("langal");
+        
+        // System.out.println(name1==name2);
+        // System.out.println(name2==name3);
+        // System.out.println(name3==name4);
+        // System.out.println(name4==name2);
+        // System.out.println(name1==name4);
         
     }
 }

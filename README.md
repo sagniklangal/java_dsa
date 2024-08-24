@@ -1,3 +1,5 @@
+![My Image]([https://github.com/sagniklangal/my-repo/blob/main/images/my-image.png](https://github.com/sagniklangal/java_shashcode/blob/main/CollectionDiagramFinal.drawio.png))
+
 # Java-Collections-Course
 Free Java Collection Resources
 

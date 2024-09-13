@@ -1,5 +1,5 @@
 import java.util.*;
-public class QuestionOnString {
+public class all_substrings_of_a_string {
     public static void main(String[] args) {
         printAllSubstring("abc");
     }
